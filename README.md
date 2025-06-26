@@ -6,8 +6,8 @@
 ### 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/sdwc-dev/2d-floorplan-to-3d.git
+cd 2d-floorplan-to-3d
 ```
 
 ### 2. **Install dependencies**
@@ -46,12 +46,4 @@ Go to [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## 📄 License
 
-MIT License
-
----
-
-## 🙋‍♂️ Questions?
-
-Open an issue or contact the maintainer.
