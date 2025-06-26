@@ -26,14 +26,8 @@ streamlit run app.py
 
 Go to [http://localhost:8501](http://localhost:8501)
 
----
 
-## ☁️ Deploy on Streamlit Cloud
 
-1. Push your code and all required files to a public GitHub repository.
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud) and create a new app from your repo.
-3. Set the main file path to `app.py`.
-4. Deploy and share your app!
 
 ---
 
